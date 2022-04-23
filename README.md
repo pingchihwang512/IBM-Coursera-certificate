@@ -12,7 +12,7 @@ This repository collect with the resource and certificate I learn from IBM Cours
 * [Introduction to Containers w/ Docker, Kubernetes & OpenShift]()
 * [Python for Data Science, AI&Development]()
 * [Python Project for AI&Application development]()
-* [Developing Applications with SQL, Databases, and Django]
+* [Developing Applications with SQL, Databases, and Django]()
 * [Application Development using Microservices and Serverless]()
 * [Full Stack Cloud Development Capstone Project]()
 * [Introduction to Test Driven Development (TDD)]()
