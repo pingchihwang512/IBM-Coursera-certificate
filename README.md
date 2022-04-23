@@ -2,7 +2,7 @@
 This repository collect with the resource and certificate I learn from IBM Coursera certificate and Knowledge include DevOps and Full Stack Software Develop.
 
 * [Introduction to DevOps](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/1_Introduction%20to%20DevOps)
-* [Cloud Computing]()
+* [Cloud Computing](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/2_Cloud%20Computing)
 * [Introduction to Agile Development]()
 * [Hands-on Introduction to Linux Commands and shell Scipting]()
 * [Getting Started with Git and Github]()
