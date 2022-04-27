@@ -6,7 +6,7 @@ This repository collect with the resource and certificate I learn from IBM Cours
 * [Introduction to Agile Development](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/3_Introduction%20to%20Agile%20Development)
 * [Hands-on Introduction to Linux Commands and shell Scripting](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/4_Hands-on%20Introduction%20to%20Linux%20Commands%20and%20shell%20Scipting)
 * [Getting Started with Git and Github](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/5_Getting%20Started%20with%20Git%20and%20Github)
-* [Introduction to WebDevelpment with HTML,CSS,JAVASCRIPT]()
+* [Introduction to Web Development with HTML,CSS,JAVASCRIPT]()
 * [Developing Cloud Native Applications]()
 * [Developing Cloud Apps with Node.js and React]()
 * [Introduction to Containers w/ Docker, Kubernetes & OpenShift]()
