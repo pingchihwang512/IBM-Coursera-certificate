@@ -7,7 +7,7 @@ This repository collect the resource and certificate from IBM Coursera I took. T
 * [Hands-on Introduction to Linux Commands and shell Scripting](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/4_Hands-on%20Introduction%20to%20Linux%20Commands%20and%20shell%20Scipting)
 * [Getting Started with Git and Github](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/5_Getting%20Started%20with%20Git%20and%20Github)
 * [Introduction to Web Development with HTML,CSS,JAVASCRIPT](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/6_Introduction%20to%20WebDevelpment%20with%20HTML%2CCSS%2CJAVASCRIPT)
-* [Developing Cloud Native Applications]()
+* [Developing Cloud Native Applications](https://github.com/pingchihwang512/IBM-Coursera-certificate/tree/main/7_Developing%20Cloud%20Native%20Applications)
 * [Developing Cloud Apps with Node.js and React]()
 * [Introduction to Containers w/ Docker, Kubernetes & OpenShift]()
 * [Python for Data Science, AI&Development]()
